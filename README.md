@@ -4,3 +4,7 @@ A laser-security camera prototype system designed with SolidWorks, coded with C+
 For more details, please click on the Business Plan Link below:
 
 https://drive.google.com/file/d/1wzHS-l8j2itULUZ9t3fBU88SDpxwYbG8/view?usp=sharing
+
+This project was completed successfully as part of the requirement for Nanyang Technological University's MA2079 Engineering Innovation and Design (EID) course.
+
+**Disclaimer : The source code that was used to implement the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
