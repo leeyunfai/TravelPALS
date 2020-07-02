@@ -1,5 +1,5 @@
 # TravelPALS: A Portable Alarm Laser Shield System
-A laser-security camera prototype system designed with SolidWorks, coded with C++ in Arduino IDE and 3D printed with ABS Filament.
+A laser-security camera prototype system designed with SolidWorks and Fritzing, coded with C++ in Arduino IDE and 3D printed with ABS Filament.
 
 For more details, please click to view the Business Plan with the link below:
 
