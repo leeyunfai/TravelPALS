@@ -3,7 +3,7 @@ A laser-security camera prototype system designed with SolidWorks and Fritzing, 
 
 For more details, please click to view the Business Plan with the link below:
 
-https://drive.google.com/file/d/1wzHS-l8j2itULUZ9t3fBU88SDpxwYbG8/view?usp=sharing
+https://drive.google.com/file/d/1r9R-HqjLjF-XHsEnB2JoVio_FaAcIoSI/view?usp=sharing
 
 This project was completed successfully as part of the requirement for Nanyang Technological University's MA2079 Engineering Innovation and Design (EID) course, with an A+ Grade.
 
